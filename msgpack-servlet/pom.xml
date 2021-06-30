@@ -12,7 +12,7 @@
 	<description>Message Pack Servlet handler</description>
 
 	<properties>
-		<jettyVersion>9.2.28.v20190418</jettyVersion>
+		<jettyVersion>9.4.41.v20210516</jettyVersion>
 	</properties>
 
 	<dependencies>
